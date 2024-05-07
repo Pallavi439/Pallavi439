@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at pallavi.patil3084@gmail.com! I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/vaishnavi-thaakare/vaishnavi-thaakare.git" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,8 +33,8 @@
 
 <p align="center">
 <a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-pallavi.patil3084@gmail.com-3423A6?style=flat&logo=Gmail&logoColor=white"/></a>
- ### <a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-9067259501-3423A6?style=flat&logo=tel&logoColo=white"/></a>
-     <a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-9067259501-3423A6?style=flat&#9742&logoColo=white"/></a>
+<!--  ### <a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-9067259501-3423A6?style=flat&logo=tel&logoColo=white"/></a>
+     <a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-9067259501-3423A6?style=flat&#9742&logoColo=white"/></a> -->
 
 <a href="https://www.linkedin.com/in/pallavi-patil-177360280/"></a>
 </p>
