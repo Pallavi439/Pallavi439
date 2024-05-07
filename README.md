@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-pallavi.patil3084@gmail.com-3423A6?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-9067259501-3423A6?style=flat&logo=&#9743;&logoColo=white"/></a>
+<a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-9067259501-3423A6?style=flat&logo=&#9743&logoColo=white"/></a>
  
 
 <a href="https://www.linkedin.com/in/pallavi-patil-177360280/"></a>
