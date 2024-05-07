@@ -10,7 +10,7 @@
 🎓 &nbsp;I'm have 2.3 years of experience in IT Industery as a Software tester.\
 🌱 &nbsp;I have automatde the Amazon application .\
 ✍️ &nbsp;In my free time, i used to automate the application.\
-✉️ &nbsp;You can shoot me an email at pallavi.patil3084@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at pallavi.patil3084@gmail.com! I'll try to respond as soon as I can.
 
 
 <img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif"/>
