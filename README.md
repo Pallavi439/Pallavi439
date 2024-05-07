@@ -13,7 +13,7 @@
 ✉️ &nbsp;You can shoot me an email at pallavi.patil3084@gmail.com! I'll try to respond as soon as I can.\
 
 
-<img alt="Night Coding" src="https://github.com/vaishnavi-thaakare/vaishnavi-thaakare.git" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
