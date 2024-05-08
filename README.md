@@ -18,7 +18,7 @@ Hi, I'm Pallavi Patil!
  ### 💻 Tech Stack
 
 <p>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java%20-%23FF0000.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="Selenium Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="TestNg" src="https://img.shields.io/badge/Atom-3DDC84?logo=tesng&logoColor=white"></a>
     <a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Chrome-3DDC84?logo=google-chrome&logoColor=white"></a>
@@ -28,12 +28,6 @@ Hi, I'm Pallavi Patil!
     <a href="#"><img alt="Jira" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=jira&logoColor=white"></a>
    
 </p>
-🛠 <b>**Tech Stack**</b>
-
-
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Testng](https://img.shields.io/badge/-Testng-05122A?style=flat&logo=Testng&logoColor=FFA518)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
