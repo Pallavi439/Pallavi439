@@ -15,8 +15,9 @@
 
 <img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif">
  -->
-### 🛠 &nbsp;Tech Stack
+🛠 &nbsp;Tech Stack
 
+![Testng](https://img.shields.io/badge/Testng-blue?logo=Testng&logoColor=white&style=for-the-badge)&nbsp
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Testng](https://img.shields.io/badge/-Testng-05122A?style=flat&logo=Testng&logoColor=FFA518)&nbsp;
