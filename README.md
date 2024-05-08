@@ -1,4 +1,4 @@
-                                       ![Pallavi Patil]
+                                    **   Pallavi Patil**
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pallavi</h2>
 
@@ -12,9 +12,11 @@
 ✍️ &nbsp;In my free time, i used to automate the application.\
 ✉️ &nbsp;You can shoot me an email at pallavi.patil3084@gmail.com! I'll try to respond as soon as I can.
 
-
-<img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif"/>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<!-- <img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif"/>
+ -->
 ### 🛠 &nbsp;Tech Stack
 
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
