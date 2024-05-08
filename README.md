@@ -16,7 +16,7 @@
 <img src="https://i.pinimg.com/originals/17/07/13/170713ecea0449df54e43dcf926950bf.gif">
  -->
  
-🛠 <b>Tech Stack</b>
+🛠 <b>**Tech Stack**</b>
 
 
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
